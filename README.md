@@ -29,6 +29,10 @@ Aplicación web para encriptar y desencriptar texto usando un cifrado por sustit
 - JavaScript vanilla (ES6+)
 - SweetAlert2 para notificaciones
 
+## Demo en vivo
+
+👉 [pierrelogs.github.io/TextEncryptChallenge](https://pierrelogs.github.io/TextEncryptChallenge/)
+
 ## Uso
 
 Abre `index.html` en cualquier navegador moderno (requiere internet para CDN de fuentes y SweetAlert2).
